@@ -1,0 +1,521 @@
+
+<html>
+
+<head>
+
+ <link href="mogo.css" rel="stylesheet" type="text/css">
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Libre+Franklin:wght@700&family=Montserrat:wght@700&family=Open+Sans:wght@400;500&family=Oswald&family=Quintessential&display=swap" rel="stylesheet">
+ <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous"/>
+ <link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Poppins:wght@200&display=swap" rel="stylesheet">
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Libre+Franklin:wght@700&family=Montserrat:wght@700&family=Open+Sans:wght@400;500&family=Oswald&family=Quintessential&family=Roboto&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Libre+Franklin:wght@700&family=Montserrat:wght@500&family=Open+Sans:wght@400;500&family=Oswald&family=Quintessential&family=Roboto&display=swap" rel="stylesheet">
+
+</head>
+
+
+<body> 
+
+ <div class="container-fluid first">
+    
+	<div class="container">
+	  
+	   <div class="row1">
+	   
+	   
+	      <div class="logo">
+		  
+		    <h1>mogo</h1>
+			
+			 <ul>
+				<li>home</li>
+				<li>about</li>
+			    <li>service</li>
+				<li>our team</li>
+				<li>work</li>
+				<li>blog</li>
+		     </ul>		 
+		
+		    
+		  </div>
+		  
+	    </div>
+		  
+		  
+	    <div class="row2">
+		
+		     <div class="main">
+			 
+			    <h2>creative template</h2>
+			 
+		        <h3>welcome<br>
+				    to mogo</h3>
+				<h4>_________</h4>
+				<p>learn more</p>
+				
+			 </div>	
+  
+		</div>
+		
+		<div class="row3">
+		     
+			 <div class="last">
+			    
+				<ul>
+				    
+					<li>01 intro</li>
+					<li>02 work</li>
+					<li>03 about</li>
+					<li>04 contacts</li>
+				</ul>
+			 
+			 </div>
+		
+		</div>
+		
+		
+		</div>
+	
+	</div>
+
+  <div class="container-fluid second">
+  
+        <div class="container"> 
+	
+	         <div class="row">
+			 
+			     <div class="new">
+			 
+			 
+			    <h1>What we do</h1>
+				<h2>Story about us</h2>
+				<h3>______</h3>
+				<h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut<br>
+				 enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h4>
+			     
+				 </div>
+				 
+			 </div>
+			 
+			 <div class="row">
+			 
+			    <div class="img">
+				
+				     <div class="img1">
+					 
+					    <img src="images/1.jpg">
+					 
+					 </div>
+				    
+					 <div class="img2">
+					 
+					    <img src="images/2.jpg">
+					 
+					 </div>
+					 
+					 <div class="img3">
+					    
+						<img src="images/3.jpg">
+					 
+					 </div>
+				
+				
+				
+				
+				</div>
+			 
+			 
+			 </div>
+	
+	    </div> 
+
+	<div class="row">
+
+		<div class="box"> 
+		
+			<div class="box1">
+
+			</div>
+            
+			<div class="box2">
+				<h1>42</h1>
+				<h2>web design projects</h2>
+			</div>
+
+			<div class="box3">
+                 <h1>123</h1>
+				 <h2>happy client</h2>
+			</div>
+
+			<div class="box4">
+				 <h1>15</h1>
+				 <h2>award winner</h2>
+
+		    </div>
+
+			<div class="box5">
+				 <h1>99</h1>
+				 <h2>cup of coffee</h2>
+			</div>
+
+			<div class="box6">
+				 <h1>24</h1>
+				 <h2>members</h2>
+			</div>	
+				
+            <div class="box7">
+				 
+			</div>
+				
+    	</div>		
+
+  
+  
+    </div>
+
+	<div class="container-fluid">
+
+
+		<div class="container">
+
+            <div class="row">
+
+				<div class="work">
+                    
+					<h1>we work with</h1>
+					<h2>amazing services</h2>
+					<h3>_______</h3>
+
+				</div>
+
+			</div>	
+            
+		<div class="row">
+
+			
+			<div class="work1">
+
+				<div class="b1">
+                    
+					<h1>Photography</h1>
+				    <p>Photography is the science, art and practice of<br>
+				     creating durable images by recording light or other<br>
+					 electromagnetic radiation<p>
+
+				</div>
+				<div class="b2">
+					 
+					<h1>web design</h1>
+					<p>Web design encompasses many different skills and<br>
+					disciplines in the production and maintenance of<br>
+					websites.</p>
+				
+				</div>
+				<div class="b3">
+				
+					<h1>creativity</h1>
+					<p>Creativity is a phenomenon whereby something new<br> 
+					and somehow valuable is formed. The created item<br>
+					may be intangible or a physical object.</p>
+				
+				</div>
+
+			</div>
+			
+			<hr></hr>
+			
+		</div>
+
+		<div class="row">
+
+			<div class="work2">
+
+				<div class="b4">
+
+					<h1>seo</h1>
+						 
+				    <p>Search engine optimization (SEO) is the process of<br>
+				    affecting the visibility of a website or a web page in<br>
+					a web search engine's unpaid results.</p>
+
+				</div>
+
+				<div class="b5">
+
+					<h1>css/html</h1>
+					<p>HyperText Markup Language, commonly<br>
+					abbreviated as HTML, is the standard markup<br>
+					language used to create web pages. </p>
+
+				</div>
+
+				<div class="b6">
+
+					<h1>digital</h1>
+					<p>With digital signals, system noise, provided it is not<br>
+					too great, will not change the quantification<br>
+					whereas with signals handled using analog<br>
+					processing.</p>
+
+				</div>
+
+
+			</div>
+		</div>
+    
+    
+	
+
+		</div>
+
+
+		<div class="row">
+             
+			<div class="final"> 
+
+				<h1>for all devices</h1>
+				<h2>unique design</h2>
+				<h3>_______</h3>
+                 
+				<img src="images/img2.png">
+
+		    </div>	
+			 
+			<div class="final2">
+
+				<img src="images/img3.png">
+
+			</div>
+
+        </div>
+	
+	</div>	
+ 
+    <div class="container fluid">
+
+		<div class="container">
+
+			<div class="row">
+				 
+				<div class="serv">
+
+					<h1>service</h1>
+					<h2>what we do</h2>
+					<h3>____</h3>
+					<h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut</h4><br>
+					<h5>enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h5></p>
+				</div>	
+
+			</div> 
+
+			<div class="row"> 
+
+				<div class="newpic">
+
+                <img src="images/new.jpg">
+
+				</div>
+				
+				<div class="newtext">
+
+					<h1>Photography</h1>
+					<h2>Creativity</h2>
+					<h3>web design</h3>
+
+
+				</div>	
+			
+			</div>	
+
+
+		</div>
+	
+	</div>	
+
+	<div class="container-fluid newcf">
+
+         <div class="container">
+       
+		<div class="row">
+
+			<div class="newcf-1">
+
+                <h3>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et</h3><br>
+				<h4>dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation."</h4>
+
+                <h1>___</h1>
+
+				<h2>Jon Doe</h2>
+
+
+			</div>	
+
+			</div>
+            </div>
+	</div>
+
+	<div class="container-fluid">
+		<div class="container">
+			<div class="row">
+				<div class="team">
+
+					<h1>who we are</h1>
+					<h2>meet our team</h2>
+					<h3>____</h3>
+					<h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut</h4> <br>
+					<h5>enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h5>
+
+				</div>	
+			</div>	
+
+			<div class="row">
+				<div class="team2">
+
+					<img src="images/team1.jpg"> 
+                   
+
+				</div>
+
+				<div class="team3">
+
+					<img src="images/team2.jpg">
+
+				</div>	
+				
+				<div class="team4">
+
+					<img src="images/team3.jpg">
+					
+				</div>
+
+			</div>	
+		</div>
+
+	</div>	
+
+	<div class="container-fluid new6">
+		<div class="container">
+			<div class="row">
+
+				<div class="brand">
+                 
+					<img src="brand/img-1.png">
+
+				</div>
+
+				<div class="brand2">
+					<img src="brand/img-2.png">
+				</div>
+
+				<div class="brand3">
+					<img src="brand/img-3.png">
+				</div>
+
+				<div class="brand4">
+					<img src="brand/img-4.png">
+				</div>
+
+				<div class="brand5">
+					<img src="brand/img-5.png">
+				</div>
+
+				<div class="brand6">
+					<img src="brand/img-6.png">
+				</div>
+
+			</div>
+		</div>
+	</div>
+    
+	<div class="container-fluid sw">
+		<div class="container">
+			<div class="row">
+
+				<div class="some"> 
+					<h1>what we do</h1>
+					<h2>some of our work</h2>
+					<h3>____</h3>
+					<h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut </h4><br>
+				    <h5>enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h5>
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="container-fluid ourwork">
+
+		<div class="our1">
+
+			<img src="ourwork/img-1.jpg">
+
+		</div>
+
+		<div class="our2">
+             
+			<img src="ourwork/img-5.jpg">
+		</div>
+        
+		<div class="our3">
+
+			<img src="ourwork/img-2.jpg">
+		</div>
+
+		<div class="our4">
+           <img src="ourwork/img-6.jpg">
+		</div>
+
+		<div class="our5">
+            
+			<img src="ourwork/img-3.jpg">
+		</div>
+
+		<div class="our6">
+             <img src="ourwork/img-4.jpg">
+		</div>
+        
+		<div class="our7">
+             <img src="ourwork/img-7.jpg">
+		</div>
+		
+
+	</div>
+
+	<div class="container-fluid josh">
+
+		<div class="container js">
+
+			<div class="row"> 
+				<h1>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut</h1><br>
+                 <h2>labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation."</h2> 
+				 <h3>____</h3>
+				 <h4>Joshua Earle</h4>
+			</div>
+            
+			<div class="girl">
+				<img src="ourwork/girl.jpg">
+			</div>
+		</div>
+
+	</div> 
+
+	<div class="container fluid hc">
+
+		<img src="ourwork/happy.jpg">
+
+	 </div>		
+
+
+		
+	</div>
+
+	
+
+</body>
+
+</html>
